@@ -55,6 +55,6 @@ Este projeto tem como objetivo realizar **análise exploratória de dados (EDA)*
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/titanic-ml.git
-   cd titanic-ml
+   git clone https://github.com/GabeAlv/Desafio_titanic.git
+   cd Desafio_titanic
 
