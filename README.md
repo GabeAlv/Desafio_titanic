@@ -32,7 +32,7 @@ Este projeto tem como objetivo realizar **análise exploratória de dados (EDA)*
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3.11**
 - **Bibliotecas:**
   - `pandas`
   - `numpy`
